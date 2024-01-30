@@ -42,18 +42,12 @@ CLI, or Command Line Interface, is a text-based way to interact with your comput
 - `mv` (move): Moves or renames files or directories.
 - `rm` (remove): Deletes files or directories.
 
-
-  ``` bash
-$ mkdir document
-
-$ cd documents
-
-$ touch readme.txt
-
-$ ls
-
-$ mv old-path new-path/
-
-$ cd dir/
-
-```
+  ```
+  bash
+  $ mkdir document
+  $ cd documents
+  $ touch readme.txt
+  $ ls
+  $ mv old-path new-path/
+  $ cd dir/
+  ```
